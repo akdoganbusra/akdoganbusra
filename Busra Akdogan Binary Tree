@@ -1,0 +1,39 @@
+Örneğin:
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
+
+Root 4 seçilir.
+
+Root'un solunda [1,0,3,2] bulunur.
+
+Root'tun sağında [[7,5,8,6,9] bulunur.
+
+Root 4'ün solundaki veri kümesinde Root 2 seçilir.
+
+Root 2'nin solunda  [0,1] bulunur.
+
+Root 2'nin sağında [3] bulunur.
+
+Root 2'nin solundaki veri kümesinde Root 1 seçilir.
+
+Root 1'in solunda [0] bulunur.
+
+Root 1'in sağında hiçbir şey bulunmaz.
+
+Root 4'ün sağındaki veri kümesinde Root 7 seçilir.
+
+Root 7'nin sağında [8,9] bulunur.
+
+Root 7'nin solunda [5,6] bulunur.
+
+Root 7'nin sağındaki veri kümesinde Root 8 seçilir.
+
+Root 8'in sağında [9] bulunur.
+
+Root 8'in solunda hiçbir şey bulunmaz.
+
+Root 7'nin solundaki veri kümesinde Root 5 seçilir.
+
+Root 5'in sağında [6] bulunur.
+
+Root 5'in solunda hiçbir şey bulunmaz.

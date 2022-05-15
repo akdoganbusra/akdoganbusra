@@ -1,0 +1,9 @@
+[22,27,16,2,18,6] 
+[2,27,16,22,18,6] :Insertion sort için ilk öncelikle en küçük eleman bulunur ve en sola yazılır.
+[2,6,16,22,18,27]
+[2,6,16,22,18,27] :16'nın yerinin değişmesine gerek olmadığı için bu aşamada değişim yapılmaz.
+[2,6,16,18,22,27] :Son adım.
+Big-O= (n^2)
+Time Complexity (average case): O(logn)
+Time Complexity (worst case): O(n)
+Time Complexity (best case):1
